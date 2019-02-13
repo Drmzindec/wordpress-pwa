@@ -13,6 +13,7 @@ class Pt_Pwa_Config {
     public $PWA_DOMAIN;
     public $PWA_VERSION;
     public $PWA_ENABLED;
+    public $PWA_S;
 
     public function __construct() {
 
@@ -21,6 +22,7 @@ class Pt_Pwa_Config {
         $this->PWA_DOMAIN           = 'publishers-toolbox-pwa';
         $this->PWA_VERSION          = '1.5.3';
         $this->PWA_ENABLED          = get_option('pt_pwa_enabled');
+        $this->PWA_S                = 'nUxUnYFWH.gP9-reH{[qFD\s+Hw2Kqukqk%v:HeMVH!Hx';
     }
 
     public function enable_pwa() {
