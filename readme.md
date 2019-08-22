@@ -1,3 +1,5 @@
+# This project has been deprecated.
+
 === Publisher's Toolbox PWA ===
 Contributors: jamesgpearce, andreatrasatti, cborodescu, anghelalexandra, publisherstoolbox
 Tags: pwa, progressive web app, android, iOS, html5, iphone, mobile, mobile internet, mobile web, mobile web app, responsive ui, safari, sencha touch, smartphone, webkit, progressive web apps, app builder, apple, apps, convert to app, create blog app, ios app, ipad, make an app, mobile app plugin, mobile application, mobile blog app, mobile converter, mobile plugin, native app plugin, app theme, website to mobile app, WordPress android, WordPress app, WordPress iphone, WordPress mobile, WordPress mobile app
